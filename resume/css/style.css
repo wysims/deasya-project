@@ -290,10 +290,10 @@
   }
   /*--------Photo Image-------*/
   img {
-    border: 5px solid #555;
+    border: 5px solid rgb(223, 106, 165);;
   }
   img {
-    border-radius: 50%;
+    border: 50%;
   }
 
   /* ------ Global Styles -------*/
@@ -384,7 +384,7 @@
     margin: 0;
     grid-column: 2;
     padding: 10px 0;
-    border-bottom: 1px solid #999;
+    border-bottom: 1px solid 999
   }
   
   /* ------ Helper Classes -------*/
@@ -415,7 +415,7 @@
 
 /* ------ Global Styles -------*/
 body{
-  background:#dbcba1d7;
+  background:#e62eb2e8;
     color:#222222;
     line-height:1.4
 } 
@@ -425,7 +425,7 @@ a:link, a:visited{
 
 .container{
   margin:0 auto;
-    background:rgba(138, 14, 14, 0.15)
+    background:#690a4ea7;
 }
 
 nav.primary {
