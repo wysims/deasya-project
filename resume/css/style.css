@@ -291,7 +291,7 @@
 
   /*--------Photo Image-------*/
   img {
-    border: 5px solid rgb(223, 106, 165);
+    border: 5px solid  rgb(238, 149, 193);
   }
   img {
     border: 50%;
@@ -446,7 +446,7 @@ nav a:visited {
   color: #222
   text-transform: uppercase;
   font-size: 0.75em;
-  background:rgb(223, 106, 165);
+  background: rgb(238, 149, 193);
   transition: background-color 0.5s ease;
   color:#222
 }
@@ -469,7 +469,7 @@ main h1 {
 }
 main h1:before,
 main h1:after {
-  background-color: rgb(223, 106, 165);
+  background-color:  rgb(238, 149, 193);
   content: "\a0";
   flex-grow: 1;
   height: 1px;
@@ -502,7 +502,7 @@ dd{
   margin: 0;
   grid-column: 2;
   padding: 10px 0;
-  border-bottom: 1px solid rgb(223, 106, 165);
+  border-bottom: 1px solid  rgb(238, 149, 193);
 }
 
 .related-links{
@@ -524,7 +524,7 @@ dd{
   color:#222222;
   text-transform:uppercase;
   font-size:.75em;
-  background:rgb(223, 106, 165);
+  background:  rgb(238, 149, 193);
   transition: background-color 0.5s ease;
   color:#222
 }
@@ -545,7 +545,7 @@ dd{
 }
 
 .job, .certificate{
-  border-bottom:1px solid rgb(223, 106, 165);
+  border-bottom:1px solid  rgb(238, 149, 193);
   padding-bottom:20px;
 }
 
