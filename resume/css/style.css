@@ -426,7 +426,7 @@ a:link, a:visited{
 
 .container{
   margin:0 auto;
-    background:#a13083c8;
+    background:#c847a6c8;
 }
 
 nav.primary {
@@ -537,10 +537,10 @@ dd{
   margin-right:10px;
 }
 
-#skills{
+#coursework{
   
 }
-#skills li {
+#coursework li {
   list-style-type:square;
 }
 
@@ -606,8 +606,8 @@ main {
     grid-template-areas:
       "title title"
       "about about"
-      "skills experience"
-      ". education";
+      "coursework experience"
+      "education";
   }
   
   #about{
